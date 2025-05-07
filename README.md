@@ -1,4 +1,4 @@
-# SQL_Case_Study
+
 ## 📁 Project Folders
 
 ### 1. 📂 Bank Data
