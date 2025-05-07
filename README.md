@@ -3,7 +3,7 @@
 
 ### 1. 📂 Bank Data
 **Objective:** Analyze customer transactions and behavior to provide insights for loan approval or risk assessment.  
-**Tools Used:** SQL, Excel  
+**Tools Used:** SQL 
 **Key Insights:**
 - Segmented customer spending patterns
 - Identified high-risk customers
